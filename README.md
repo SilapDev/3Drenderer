@@ -1,5 +1,4 @@
-# 3Drednerer
-simple 3d renderer
+SIMPLE 3DRENDERER
 
 For use this renderer just download this code
 $: javac DemoViewer.java
